@@ -12,6 +12,14 @@ from google import genai
 from pydantic import BaseModel
 import json
 import enum
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the API keys
+api_key = os.environ.get("api_key")
 def handleRequests(message):
     class PriorityCategory(enum.Enum):
         High = "high"
@@ -26,7 +34,7 @@ def handleRequests(message):
         concern: ConcernCategory
         priority: PriorityCategory
     
-    client = google.genai.Client(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
+    client = google.genai.Client(api_key=api_key)
 # Call the API with response schema
 
     
@@ -56,11 +64,11 @@ import json
 import google
 
 from user.models import CustomUser, Room, CheckInLog
-genai.configure(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")  # Replace with your key
+genai.configure(api_key=api_key)  # Replace with your key
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 def handleQuery(query):
-  client = google.genai.Client(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
+  client = google.genai.Client(api_key=api_key)
   training_data = json.dumps([
     {
         "text_input": "What is Boston Partners PLC and its relationship with Kuriftu Resort & Spa?",

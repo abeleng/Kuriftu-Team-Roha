@@ -172,7 +172,7 @@ def handleFeedback(list_of_json_feedback_objects):
     class reponseList(BaseModel):
         feedbacks: list[FeedbackClassification]
     
-    client = genai.Client(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
+    client = genai.Client(_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
 # Call the API with response schema
     
 

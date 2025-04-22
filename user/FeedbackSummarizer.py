@@ -1,10 +1,18 @@
 import json
 from google import genai
 from pydantic import BaseModel
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the API keys
+api_key = os.environ.get("api_key")
 def getClusters(feedback_json_list):
       feedback_json_string = json.dumps([feedback['content'] for feedback in feedback_json_list])
       
-      client = genai.Client(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
+      client = genai.Client(api_key=api_key)
 
       class response_config(BaseModel):
         common_issue: str

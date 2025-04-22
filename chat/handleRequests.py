@@ -2,6 +2,15 @@ from google import genai
 from pydantic import BaseModel
 import json
 import enum
+
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the API keys
+api_key = os.environ.get("api_key")
 def handleRequests(requestObject):
     class PriorityCategory(enum.Enum):
         High = "high"
@@ -16,7 +25,7 @@ def handleRequests(requestObject):
         concern: ConcernCategory
         priority: PriorityCategory
     
-    client = genai.Client(api_key="AIzaSyDGCmMzx2u4nKziWrziPBdItm8ECWm2uYk")
+    client = genai.Client(api_key=api_key)
 # Call the API with response schema
     
 
