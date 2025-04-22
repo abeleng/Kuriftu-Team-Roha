@@ -1,0 +1,630 @@
+[
+    {
+      "id": "1",
+      "title": "Traditional Ethiopian Spa Treatment",
+      "description": "Immerse yourself in the ancient healing traditions of Ethiopia with our signature spa treatment. This transformative experience combines time-honored techniques with locally sourced herbs and oils, offering a unique journey of relaxation and rejuvenation.",
+      "category": "wellness",
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&q=80",
+      "price": "$120",
+      "rating": 4.9,
+      "duration": "90 minutes",
+      "location": "Kuriftu Spa",
+      "capacity": "Individual sessions",
+      "featured": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?auto=format&fit=crop&q=80"
+      ],
+      "highlights": [
+        "Traditional Ethiopian massage techniques",
+        "Locally sourced aromatic oils",
+        "Stress relief and deep relaxation",
+        "Experienced wellness practitioners"
+      ],
+      "includes": [
+        "Pre-treatment consultation",
+        "Herbal tea ceremony",
+        "Access to relaxation lounge",
+        "Complimentary spa products"
+      ],
+      "schedule": [
+        "9:00 AM - 10:30 AM",
+        "11:00 AM - 12:30 PM",
+        "2:00 PM - 3:30 PM",
+        "4:00 PM - 5:30 PM"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Sunset Lake Cruise",
+      "description": "Enjoy a tranquil sunset cruise on Lake Kuriftu. Witness breathtaking views, sip on fine Ethiopian wine, and relax with live traditional music aboard our luxury boat.",
+      "category": "adventure",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80",
+      "price": "$80",
+      "rating": 4.7,
+      "duration": "2 hours",
+      "location": "Kuriftu Lake",
+      "capacity": "Up to 12 people",
+      "featured": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1571607382344-90e0688c7c38?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&q=80"
+      ],
+      "highlights": [
+        "Golden hour lake views",
+        "Complimentary local beverages",
+        "Live cultural music performance"
+      ],
+      "includes": [
+        "Life jackets",
+        "Refreshments",
+        "Onboard guide",
+        "Photography service"
+      ],
+      "schedule": [
+        "5:00 PM - 7:00 PM"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Couples’ Aromatherapy Massage",
+      "description": "Reconnect and unwind with our signature aromatherapy massage tailored for couples. Relax in a private room with soothing scents and synchronized massage techniques.",
+      "category": "wellness",
+      "image": "https://images.unsplash.com/photo-1556228578-2b5a68b84f5b?auto=format&fit=crop&q=80",
+      "price": "$200",
+      "rating": 4.8,
+      "duration": "75 minutes",
+      "location": "Kuriftu Spa",
+      "capacity": "2 people",
+      "featured": false,
+      "gallery": [
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&q=80"
+      ],
+      "highlights": [
+        "Romantic setting",
+        "Customized essential oils",
+        "Expert massage therapists"
+      ],
+      "includes": [
+        "Couple’s relaxation room",
+        "Champagne toast",
+        "Access to spa pool",
+        "Scented oil souvenirs"
+      ],
+      "schedule": [
+        "10:00 AM - 11:15 AM",
+        "3:00 PM - 4:15 PM",
+        "6:00 PM - 7:15 PM"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Horseback Safari Experience",
+      "description": "Explore the natural beauty of the Kuriftu region on horseback. Led by experienced guides, this eco-adventure takes you through forest trails and open meadows.",
+      "category": "adventure",
+      "image": "https://images.unsplash.com/photo-1517832606294-6b2a5cc60c5f?auto=format&fit=crop&q=80",
+      "price": "$90",
+      "rating": 4.6,
+      "duration": "3 hours",
+      "location": "Kuriftu Stables",
+      "capacity": "Group of up to 6",
+      "featured": false,
+      "gallery": [
+        "https://images.unsplash.com/photo-1570976771748-0471fa92ac7c?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1603048485799-6cadd0e07e9b?auto=format&fit=crop&q=80"
+      ],
+      "highlights": [
+        "Scenic trail routes",
+        "Guided wildlife observation",
+        "Horse-friendly terrain"
+      ],
+      "includes": [
+        "Horse and safety gear",
+        "Trail snack pack",
+        "Photo ops with guides",
+        "First aid support"
+      ],
+      "schedule": [
+        "7:30 AM - 10:30 AM",
+        "4:00 PM - 7:00 PM"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Cultural Dance & Coffee Ceremony",
+      "description": "Experience the vibrancy of Ethiopian culture with traditional dance performances and a full Ethiopian coffee ceremony guided by local hosts.",
+      "category": "culture",
+      "image": "https://images.unsplash.com/photo-1612890983487-4eeda3c19d9a?auto=format&fit=crop&q=80",
+      "price": "$50",
+      "rating": 4.9,
+      "duration": "1.5 hours",
+      "location": "Cultural Pavilion",
+      "capacity": "Up to 20 guests",
+      "featured": true,
+      "gallery": [
+        "https://images.unsplash.com/photo-1593969935345-d574b4ed5e2a?auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?auto=format&fit=crop&q=80"
+      ],
+      "highlights": [
+        "Live traditional music and dance",
+        "Interactive coffee brewing process",
+        "Authentic local ambiance"
+      ],
+      "includes": [
+        "Freshly roasted coffee",
+        "Local snacks",
+        "Cultural presentation",
+        "Q&A with performers"
+      ],
+      "schedule": [
+        "11:00 AM - 12:30 PM",
+        "3:00 PM - 4:30 PM"
+      ]
+    },
+    {
+        "id": "6",
+        "title": "Jungle Photography Workshop",
+        "description": "Capture the beauty of nature on a guided photography excursion through untouched landscapes of Kuriftu. Learn tips and techniques from seasoned professionals.",
+        "category": "adventure",
+        "image": "https://images.unsplash.com/photo-1504151932400-72d4384f04b3?auto=format&fit=crop&q=80",
+        "price": "$70",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "location": "Kuriftu Nature Reserve",
+        "capacity": "Up to 10 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1517520287167-4bbf64a00d66?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Professional photography tips",
+          "On-site editing session",
+          "Stunning natural backdrops"
+        ],
+        "includes": [
+          "Professional guidance",
+          "Light refreshments",
+          "Photo post-processing tutorial"
+        ],
+        "schedule": [
+          "8:00 AM - 11:00 AM",
+          "2:00 PM - 5:00 PM"
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Ethiopian Cooking Class",
+        "description": "Experience the flavors of Ethiopia with our hands-on cooking class. Learn to prepare traditional dishes using fresh, local ingredients in a warm, communal setting.",
+        "category": "culture",
+        "image": "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&q=80",
+        "price": "$60",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "location": "Kuriftu Culinary Studio",
+        "capacity": "Up to 12 participants",
+        "featured": true,
+        "gallery": [
+          "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Authentic recipes",
+          "Hands-on culinary techniques",
+          "Local ingredient market tour"
+        ],
+        "includes": [
+          "Ingredient kit",
+          "Recipe booklet",
+          "Guided cooking session"
+        ],
+        "schedule": [
+          "12:00 PM - 2:00 PM",
+          "4:00 PM - 6:00 PM"
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Vineyard Tour & Tasting",
+        "description": "Explore the scenic vineyards of Kuriftu, and indulge in a guided wine tasting session. Learn about local wine production and sample a variety of exquisite wines.",
+        "category": "culture",
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&q=80",
+        "price": "$85",
+        "rating": 4.8,
+        "duration": "2.5 hours",
+        "location": "Kuriftu Vineyards",
+        "capacity": "Up to 15 guests",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1572370527307-9b5b0e5c39d8?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Scenic vineyard views",
+          "Expert wine knowledge",
+          "Variety of tastings"
+        ],
+        "includes": [
+          "Guided tour",
+          "Wine samples",
+          "Cheese platter"
+        ],
+        "schedule": [
+          "11:00 AM - 1:30 PM",
+          "3:00 PM - 5:30 PM"
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Eco-Friendly Bike Tour",
+        "description": "Cycle through the picturesque landscapes of Kuriftu on our eco-friendly bike tour. Experience nature up close, and enjoy guided stops at key ecological sites.",
+        "category": "adventure",
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80",
+        "price": "$45",
+        "rating": 4.5,
+        "duration": "2 hours",
+        "location": "Kuriftu Bike Trails",
+        "capacity": "Up to 20 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1501746877-14782df58970?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Eco-friendly bikes",
+          "Guided tour through nature",
+          "Scenic resting points"
+        ],
+        "includes": [
+          "Safety gear",
+          "Bottled water",
+          "Repair kit"
+        ],
+        "schedule": [
+          "7:00 AM - 9:00 AM",
+          "5:00 PM - 7:00 PM"
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Luxury Pool Cabana Rental",
+        "description": "Rent a private cabana by our luxury pool for an exclusive day of relaxation. Enjoy personalized service, cabana amenities, and a peaceful retreat.",
+        "category": "luxury",
+        "image": "https://images.unsplash.com/photo-1559599238-0e94697c23d4?auto=format&fit=crop&q=80",
+        "price": "$150",
+        "rating": 4.9,
+        "duration": "Full day",
+        "location": "Kuriftu Poolside",
+        "capacity": "Per cabana (up to 6 guests)",
+        "featured": true,
+        "gallery": [
+          "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Private cabana",
+          "Exclusive pool access",
+          "Personalized service"
+        ],
+        "includes": [
+          "Cabana amenities",
+          "Complimentary snacks",
+          "Towel service"
+        ],
+        "schedule": [
+          "All Day"
+        ]
+      },
+      {
+        "id": "11",
+        "title": "Guided Bird Watching Tour",
+        "description": "Embark on a tranquil bird watching tour with our experienced guides. Discover rare species and learn about local ecosystems in Kuriftu.",
+        "category": "adventure",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80",
+        "price": "$40",
+        "rating": 4.6,
+        "duration": "2 hours",
+        "location": "Kuriftu Nature Reserve",
+        "capacity": "Up to 12 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1452937405547-bc086e5b1b21?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Spot rare birds",
+          "Expert nature guides",
+          "Serene natural surroundings"
+        ],
+        "includes": [
+          "Binoculars",
+          "Guide pamphlets",
+          "Refreshments"
+        ],
+        "schedule": [
+          "6:00 AM - 8:00 AM",
+          "4:00 PM - 6:00 PM"
+        ]
+      },
+      {
+        "id": "12",
+        "title": "In-Room Massage Service",
+        "description": "Enjoy a soothing massage in the comfort of your room. Our licensed therapists deliver relaxation to your doorstep at any time of the day.",
+        "category": "wellness",
+        "image": "https://images.unsplash.com/photo-1576671088014-f7f2e6389b31?auto=format&fit=crop&q=80",
+        "price": "$110",
+        "rating": 4.8,
+        "duration": "60 minutes",
+        "location": "Hotel Room Service",
+        "capacity": "Individual sessions",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1588776814546-1c87b7a23f45?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Convenient in-room service",
+          "Customizable massage techniques",
+          "Tranquil and personalized"
+        ],
+        "includes": [
+          "Pre-session consultation",
+          "Aromatherapy oils",
+          "Post-massage relaxation tips"
+        ],
+        "schedule": [
+          "9:00 AM - 10:00 AM",
+          "1:00 PM - 2:00 PM",
+          "8:00 PM - 9:00 PM"
+        ]
+      },
+      {
+        "id": "13",
+        "title": "Cultural History Walking Tour",
+        "description": "Join our guided tour to explore Kuriftu’s rich cultural heritage. Discover historic sites, ancient landmarks, and local stories from expert guides.",
+        "category": "culture",
+        "image": "https://images.unsplash.com/photo-1542317854-3721d88a49c9?auto=format&fit=crop&q=80",
+        "price": "$30",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "location": "Kuriftu Old Town",
+        "capacity": "Up to 20 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1558222215-7f0375dedb5c?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Learn local history",
+          "Visit ancient sites",
+          "Expert local guides"
+        ],
+        "includes": [
+          "Map and guidebook",
+          "Refreshments",
+          "Historical insights"
+        ],
+        "schedule": [
+          "10:00 AM - 12:00 PM",
+          "2:00 PM - 4:00 PM"
+        ]
+      },
+      {
+        "id": "14",
+        "title": "Fishing Trip on the Lake",
+        "description": "Enjoy a peaceful fishing experience on Lake Kuriftu. Suitable for beginners and experienced anglers alike, this trip offers a relaxing day by the water.",
+        "category": "adventure",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80",
+        "price": "$55",
+        "rating": 4.5,
+        "duration": "3 hours",
+        "location": "Kuriftu Lake",
+        "capacity": "Up to 8 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1502767089025-6572583495b0?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1513569771929-6d5f3c62a6c3?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Calm and serene environment",
+          "Suitable for all skill levels",
+          "Guided by experienced anglers"
+        ],
+        "includes": [
+          "Fishing gear",
+          "Safety briefing",
+          "Refreshments and snacks"
+        ],
+        "schedule": [
+          "6:00 AM - 9:00 AM",
+          "3:00 PM - 6:00 PM"
+        ]
+      },
+      {
+        "id": "15",
+        "title": "Wine & Dine Evening Experience",
+        "description": "Delight in an exquisite evening of gourmet dining paired with fine wines. Enjoy a multi-course meal crafted by our expert chefs with breathtaking views.",
+        "category": "luxury",
+        "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&q=80",
+        "price": "$130",
+        "rating": 4.8,
+        "duration": "3 hours",
+        "location": "Kuriftu Restaurant",
+        "capacity": "Up to 30 guests",
+        "featured": true,
+        "gallery": [
+          "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Multi-course dining",
+          "Premium wine selection",
+          "Stunning venue views"
+        ],
+        "includes": [
+          "Welcome drink",
+          "Three-course meal",
+          "Wine pairing guidance"
+        ],
+        "schedule": [
+          "6:00 PM - 9:00 PM"
+        ]
+      },
+      {
+        "id": "16",
+        "title": "Artisan Craft Workshop",
+        "description": "Discover the art of traditional Ethiopian crafts in our hands-on workshop. Create your own souvenir while learning about local artistry and cultural significance.",
+        "category": "culture",
+        "image": "https://images.unsplash.com/photo-1527030280862-64139fba4b40?auto=format&fit=crop&q=80",
+        "price": "$40",
+        "rating": 4.6,
+        "duration": "2 hours",
+        "location": "Kuriftu Craft Center",
+        "capacity": "Up to 15 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1582719478187-ff647b0b60e1?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1533577116850-9cc66cad8a9b?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Hands-on crafting",
+          "Local artisan instruction",
+          "Unique handmade souvenirs"
+        ],
+        "includes": [
+          "Craft materials",
+          "Workshop apron",
+          "Refreshments"
+        ],
+        "schedule": [
+          "1:00 PM - 3:00 PM",
+          "4:00 PM - 6:00 PM"
+        ]
+      },
+      {
+        "id": "17",
+        "title": "Group Spa & Wellness Retreat",
+        "description": "Treat your group to a rejuvenating spa retreat. Enjoy a variety of wellness treatments designed for group relaxation and bonding in a luxurious setting.",
+        "category": "wellness",
+        "image": "https://images.unsplash.com/photo-1579733937314-1d02d8e941b6?auto=format&fit=crop&q=80",
+        "price": "$250",
+        "rating": 4.9,
+        "duration": "4 hours",
+        "location": "Kuriftu Spa",
+        "capacity": "Groups of up to 10",
+        "featured": true,
+        "gallery": [
+          "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1578922864604-338d361a9b38?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Exclusive group packages",
+          "Variety of wellness treatments",
+          "Relaxing group environment"
+        ],
+        "includes": [
+          "Multiple treatment options",
+          "Refreshments",
+          "Private relaxation area"
+        ],
+        "schedule": [
+          "10:00 AM - 2:00 PM",
+          "3:00 PM - 7:00 PM"
+        ]
+      },
+      {
+        "id": "18",
+        "title": "Sunset Bonfire Gathering",
+        "description": "Experience a magical evening with our sunset bonfire gathering. Enjoy storytelling, acoustic music, and stargazing in an intimate outdoor setting.",
+        "category": "culture",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80",
+        "price": "$35",
+        "rating": 4.7,
+        "duration": "2 hours",
+        "location": "Kuriftu Beachfront",
+        "capacity": "Up to 25 guests",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1513352933417-9317dc9d68f1?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1499084732479-de2c02d45fc4?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Scenic sunset views",
+          "Live acoustic music",
+          "Cozy bonfire setup"
+        ],
+        "includes": [
+          "Seating arrangement",
+          "Firewood and safety gear",
+          "Complimentary snacks"
+        ],
+        "schedule": [
+          "7:00 PM - 9:00 PM"
+        ]
+      },
+      {
+        "id": "19",
+        "title": "Stand-Up Paddle Boarding",
+        "description": "Experience the thrill of stand-up paddle boarding on the pristine waters of Lake Kuriftu. Perfect for both beginners and pros, this activity promises fun and fitness.",
+        "category": "adventure",
+        "image": "https://images.unsplash.com/photo-1526401281628-4127ff9a3c5e?auto=format&fit=crop&q=80",
+        "price": "$40",
+        "rating": 4.6,
+        "duration": "1.5 hours",
+        "location": "Kuriftu Lake",
+        "capacity": "Up to 8 participants",
+        "featured": false,
+        "gallery": [
+          "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Fun water activity",
+          "Stability training",
+          "Suitable for all skill levels"
+        ],
+        "includes": [
+          "Paddle board rental",
+          "Safety instructions",
+          "Wetsuit if needed"
+        ],
+        "schedule": [
+          "10:00 AM - 11:30 AM",
+          "4:00 PM - 5:30 PM"
+        ]
+      },
+      {
+        "id": "20",
+        "title": "Full-Day Luxury Excursion",
+        "description": "Enjoy an all-inclusive, full-day excursion that includes luxury transport, gourmet meals, and guided tours of Kuriftu's most exquisite sites.",
+        "category": "luxury",
+        "image": "https://images.unsplash.com/photo-1502784444185-1c0e1a4f5f56?auto=format&fit=crop&q=80",
+        "price": "$300",
+        "rating": 5.0,
+        "duration": "8 hours",
+        "location": "Kuriftu Resort Grounds",
+        "capacity": "Up to 20 guests",
+        "featured": true,
+        "gallery": [
+          "https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&q=80",
+          "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&q=80"
+        ],
+        "highlights": [
+          "Luxury transportation",
+          "Gourmet dining experience",
+          "Comprehensive guided tour"
+        ],
+        "includes": [
+          "Private transportation",
+          "Lunch and dinner",
+          "All-day guided tour"
+        ],
+        "schedule": [
+          "8:00 AM - 4:00 PM"
+        ]
+      }
+
+  ]
+  
